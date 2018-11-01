@@ -28,7 +28,7 @@ les autres cours concerneront les différents dossiers et projets.
 
 ## Mes raisons de choisir ce cours  ##
 
-Ayant déjà reçu une éducation dans le domaine de la programmation via l'apprentissage de HTML5/CSS3 et JavaScript ainsi que Python, j'ai décidé de mettre à profit mon expérience en prenant ce cours. 
-
+**Marcus:** Ayant déjà reçu une éducation dans le domaine de la programmation via l'apprentissage de HTML5/CSS3 et JavaScript ainsi que Python, j'ai décidé de mettre à profit mon expérience en prenant ce cours.   
 J'ai eu l'occasion de créer quelques petits programmes en Python via PyCharm notamment une roulette de casino ou encore une to do list à raisons de choix. J'ai également oeuvré à la création d'un site web. 
 
+**Isabelle:** Cette option m'a intriguée de par son mode de fonctionnement. De plus, je pense que savoir coder est un atout dans le monde profesionnel, c'est donc pour cela que j'ai choisi ce cours.
